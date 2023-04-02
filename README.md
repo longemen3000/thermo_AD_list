@@ -1,6 +1,6 @@
 # Thermodynamics + Automatic Differentiation
 
-This is a list of repositories that uses Thermodynamics + AD (Automatic Differentiation). Feel free to add your own repository if you use thermodynamics with automatic differenciation.
+This is a list of repositories that uses Thermodynamics + AD (Automatic Differentiation). Feel free to add your own repository if you use thermodynamics with automatic differenciation. Pull requests are accepted! 
 
 ## Clapeyron.jl
 - repository: https://github.com/ClapeyronThermo/Clapeyron.jl
