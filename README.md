@@ -31,3 +31,8 @@ This is a list of repositories that uses Thermodynamics + AD (Automatic Differen
 - repository: https://github.com/fedebenelli/yaeos
 - language: Fortran
 - AD: https://github.com/fedebenelli/yaeos/blob/main/src/adiff/hyperdual.f90 (forward mode, method overloading)
+
+## thermofun
+- repository: https://github.com/thermohub/thermofun
+- language: C++, python bindings
+- AD: https://github.com/autodiff/autodiff (forward mode used?)
