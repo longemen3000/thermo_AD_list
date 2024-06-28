@@ -28,9 +28,9 @@ This is a list of repositories that uses Thermodynamics + AD (Automatic Differen
 - AD: https://github.com/JuliaDiff/ForwardDiff.jl (forward mode, method overloading)
 
 ## YaEoS
-- repository: https://github.com/fedebenelli/yaeos
+- repository: https://github.com/ipqa-research/yaeos
 - language: Fortran
-- AD: https://github.com/fedebenelli/yaeos/blob/main/src/adiff/hyperdual.f90 (forward mode, method overloading)
+- AD: https://github.com/ipqa-research/yaeos/blob/main/src/adiff/hyperdual.f90 (forward mode, method overloading, based on https://github.com/itt-ustutt/num-dual) + Tapenade
 
 ## thermofun
 - repository: https://github.com/thermohub/thermofun
